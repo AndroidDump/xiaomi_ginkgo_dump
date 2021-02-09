@@ -1,0 +1,17 @@
+## ginkgo-user 11 RKQ1.201004.002 21.2.4 release-keys
+- Manufacturer: xiaomi
+- Platform: trinket
+- Codename: ginkgo
+- Brand: xiaomi
+- Flavor: ginkgo-user
+- Release Version: 11
+- Id: RKQ1.201004.002
+- Incremental: 21.2.4
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-GB
+- Screen Density: 440
+- Fingerprint: xiaomi/ginkgo/ginkgo:10/QKQ1.200114.002/V12.0.2.0.QCOMIXM:user/release-keys
+- Branch: ginkgo-user-11-RKQ1.201004.002-21.2.4-release-keys
+- Repo: xiaomi_ginkgo_dump
